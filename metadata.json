@@ -1,0 +1,6 @@
+{
+  "name": "Oven Grains Patisserie",
+  "description": "A premium, modern mobile-first website for Oven Grains Patisserie in Ranchi, India, featuring an elegant online cake customizer, shopping cart, order tracking, and a comprehensive admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
